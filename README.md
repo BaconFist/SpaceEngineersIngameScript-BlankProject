@@ -1,4 +1,4 @@
-# SpaceEngineersIngameScript
+# SpaceEngineersIngameScript-BlankProject
 
 #### A Visual Studio Project for SpaceEngineers Ingame Programming
 
